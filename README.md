@@ -1,2 +1,2 @@
-# kv-writer
-KeyValue writer for zerolog
+# KeyValue Writer
+KeyValue writer for zerolog 
